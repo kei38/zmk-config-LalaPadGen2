@@ -74,7 +74,7 @@
 &mt2 LCTRL A       &kp S      &kp D         &kp F      &kp G                                      &kp H            &kp J        &kp K             &kp L              &mt2 SEMICOLON MINUS
 &mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                      &kp N            &kp M        &kp COMMA         &kp PERIOD         &mt2 RIGHT_SHIFT SLASH
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT  &lt 2 TAB  &lt 1 SPACE      &lt 3 LANG2  &lt 3 LANG1  &lt 1 BACKSPACE  &lt 2 ENTER  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
-                   &none      &kp LA(TAB)   &kp LG(D)  &kp LA(LS(TAB))  &kp LG(TAB)  &kp LG(TAB)  &kp LS(LA(TAB))  &kp LG(D)    &kp LA(TAB)       &none
+                   &none      &kp LC(TAB)   &kp LG(D)  &kp LS(LC(TAB))  &kp LG(TAB)  &kp LG(TAB)  &kp LS(LC(TAB))  &kp LG(D)    &kp LC(TAB)       &none
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                                         &mkp LCLK         &mkp RCLK          &mkp MCLK
 &mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)  &kp LCTRL                                  &mkp MB4         &mkp MB5     &kp LG(TAB)       &kp LG(D)          &kp LCTRL
             >;
